@@ -28,6 +28,7 @@ wget
 wheel
 umongo
 humanize
+IMDbPY
 
 # Master Dependencies
 PyLeaves==1.0.2
